@@ -1,4 +1,4 @@
-# VoiceAgent
+# Whisper : A VoiceAgent
 
 Personal AI voice assistant running entirely locally with LLM function-calling.
 
